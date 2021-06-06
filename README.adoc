@@ -1,0 +1,44 @@
+= Khmer Chuon Nath Dictionary data (from SPICE / Open Institute)
+
+== Purpose
+
+This repository provides data from the
+https://open.org.kh/en/khmer-choun-nath-dictionary-unicode%E2%80%8B#.YLwsFi0RqAB[Khmer Choun Nath Dictionary (Unicode)],
+digitalized by the https://www.open.org.kh[Open Institute]
+as part of the USAID-funded
+https://www.open.org.kh/?q=en/category/spice[SPICE program].
+
+The Chuon Nath dictionary is the first modern monolingual dictionary
+of the Cambodian language revised by the Khmer lexicographer
+Chhuon Nath (1883-1969), published by the
+http://www.budinst.gov.kh[Buddhist Institute, Cambodia] in 1967.
+
+== Alternative forms
+
+This dictionary is available in many other forms, including:
+
+* Google Play (Open Institute): https://play.google.com/store/apps/details?id=chounNathDict.open.org.kh&feature=search_result#?t=W251bGwsMSwxLDEsImNob3VuTmF0aERpY3Qub3Blbi5vcmcua2giXQ
+* PDF: https://archive.org/details/buddhist_institute_khmer_dictionary1967/
+
+== License
+
+As described by the https://www.open.org.kh/?q=en[Open Institute],
+this data is offered under the LGPL 2.1.
+
+The source code of the dictionary is available from the
+https://sourceforge.net/projects/spiceproject/files/Khmer%20Choun%20Nath%20Dictionary/[SPICE SourceForge page].
+
+== Credits
+
+From the original Readme.txt:
+____
+Khmer Choun Nath dictionary has been developed by the Open Institute
+as part of the work of the USAID funded SPICE program.
+It is the free software. 
+
+We would like to credit to Mr. Stephen Gibberd for his help in
+Rendering function in TextView and EditText for Khmer language, Mr. Danh Hong
+for his Nokora font and to all the solutions that we have found while
+developing this application especially from stackoverflow.com website.
+____
+
